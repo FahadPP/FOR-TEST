@@ -1,6 +1,0 @@
-{
-  "name": "مسار",
-  "description": "منصة أكاديمية متكاملة لتتبع المحاضرات، إدارة الواجبات والمهام، استوديو البطاقات الدراسية (Flashcards)، والاختبارات الذاتية.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
